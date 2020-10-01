@@ -28,8 +28,10 @@ Download the output in SVG or DXF file format.
 
 ## Pricing
 
-Check out product pricing [here](https://www.prolincur.com/products/vectra2d/#pricing)
+- No sign in required for using Free features
+- Sign up required for downloading the conversion results
+- Check out details of paid feature and product pricing [here](https://www.prolincur.com/products/vectra2d/#pricing)
 
 ## Reporting issues
 
-Report any enhancements, defects or raise any queries [here](https://github.com/prolincur/Vectra2DIssuebase/issues)
+Report any enhancements, defects or raise any queries [here](https://github.com/prolincur/Vectra2D/issues)
