@@ -4,6 +4,11 @@ Vectra2D™ is a fully automatic vectorization software. It is specifically desi
 engineering drawing into 2D vector models. Vectra2D™ intelligently perform Skeletonization of lines and curves and 
 automatically perform Optical Character Recognition (OCR) of text. The result is saved in SVG or DXF file format.
 
+## Where to find Vectra2D™
+
+- Webapp at [vectra2d.com](https://vectra2d.com)
+- Google Play Store [Vectra2D](https://play.google.com/store/apps/details?id=com.prolincur.vectra2d)
+
 ## How to use Vectra2D™
 
 1. Upload
